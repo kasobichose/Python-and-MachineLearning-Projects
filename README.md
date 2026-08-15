@@ -4,23 +4,23 @@ A collection of self-directed Python and machine learning projects covering clas
 
 ## Projects
 
-### [Rock vs Mine Prediction](./rock-vs-mine-prediction)
+### [Rock vs Mine Prediction](./rock_vs_mine_prediction.ipynb)
 Binary classification model using **Logistic Regression** to distinguish sonar signals reflected from rocks vs. metal mines.
 - **Tech**: Python, scikit-learn, pandas, NumPy
 
-### [Diabetes Prediction](./diabetes-prediction)
+### [Diabetes Prediction](./diabetes_prediction.ipynb)
 Binary classification model using a **Support Vector Machine (SVM)** to predict diabetes onset from diagnostic measurements (PIMA Diabetes Dataset).
 - **Tech**: Python, scikit-learn, pandas, StandardScaler for feature preprocessing
 
-### [House Price Prediction](./house-price-prediction)
+### [House Price Prediction](./house_price_prediction.ipynb)
 Regression model using **XGBoost** to predict housing prices from the Boston Housing dataset, including exploratory data analysis and visualization.
 - **Tech**: Python, XGBoost, pandas, matplotlib, seaborn
 
-### [Chatbot (Flask)](./chatbot-flask)
+### [Chatbot (Flask)](./chatbot_project.ipynb)
 A rule-based conversational chatbot built with **ChatterBot**, served through a Flask web app.
 - **Tech**: Python, Flask, ChatterBot, SQLAlchemy
 
-### [Rasa Chatbot](./rasa-chatbot)
+### [Rasa Chatbot](./rasa_bot.ipynb)
 An intent-based conversational AI assistant built with the **Rasa** framework.
 - **Tech**: Python, Rasa, spaCy
 
